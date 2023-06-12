@@ -41,7 +41,7 @@
    - Нийлүүлэгч компанийн мэдээлэл харуулах
      
     
-## 4.Cozy.mn, features, Basket цэс
+## 4. Cozy.mn, features, Basket цэс
      - Холбоо барих мэдээлэлэл харах
      - Хот / Аймаг жагсаалтыг харуулах
      - Дүүрэг / Сум жагсаалтыг харах
@@ -54,19 +54,19 @@
      - Сагсан дахь бараагаа харах, нэмэх, хасах
      - Худалдан авалт хийх товч дарах
          
-## 5. Features,Order цэс
+## 5. Cozy.mn Features,Order цэс
     - Төлбөрийн сонголт хийх
     - Захиалгын мэдээлэл харах
     - Баталгаажуулалт хийх
         
-## 6. Features, SuccessfulOrder цэс
+## 6. Cozy.mn Features, SuccessfulOrder цэс
      - Захиалга амжилттай хийгдсэн тухай мэдээлэл харуулах
     
-## 7.  Features, Result цэс 
+## 7.  Cozy.mn Features, Result цэс 
      - Хэрэглэгчийн профайл харуулах
      - Захиалга төлбөр амжилттай болсон тухай мэдээлэл
     
-## 8.  Features, Supplier 
+## 8.  Cozy.mn Features, Supplier 
      - Бүртгэсэн бараануудын жагсаалтыг харах
      - Барааны үнэ оруулсан бүтээгдэхүүний жагсаалтуудыг харуулах
      - Cozy - оос e-Shop - руу бараагаа сонгон гаргах жагсаалтуудыг харах
@@ -74,13 +74,13 @@
      - Cozy.mn рүү орох
     
     
-## 9. Features, Customer 
+## 9. Cozy.mn Features, Customer 
      - Бараагаа сагслах
      - Cloud - д бүртгүүлэх
      - Cloud - руу нэвтрэх
      - Бараагаа захиалах
     
-## 10. Features, Master 
+## 10. Cozy.mn Features, Master 
      - Customer data
      - Хаяг data
      - Cozy ангилал
@@ -89,7 +89,7 @@
      - Cozy ангилал – Удирдах
      - Cozy брэнд - Удирдах
     
-## 11. Features, Transaction 
+## 11. Cozy.mn Features, Transaction 
      - Сaгс
      - Захиалгa
      - Action Log (Customer)
@@ -100,7 +100,7 @@
      - Захиалгын төлөв
    
 
-## 12. Features  Address
+## 12. Cozy.mn Features  Address хэсэг
      - Аймаг/хот	
      - Баг/хороо
      - Гудамж/хотхон 	
