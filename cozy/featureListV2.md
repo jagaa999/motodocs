@@ -1,5 +1,3 @@
-## Үйлдэл, Lifecycle	
-
 # Customers
 
 ### • Бүртгэл, Профайл менежмент:
@@ -95,9 +93,7 @@ _Feature_ - **Account Settings:**
 - [x] Manage account information and preferences.
 - [x] Address book for shipping information.
 
----
 
-## Үйлдэл, Lifecycle	
 
 # Suppliers
 
@@ -161,9 +157,7 @@ _Feature_ - **Supplier Support:**
 
 - [x] Access to support channels for assistance.
 
----
 
-## Үйлдэл, Lifecycle	
 
 # Platform Owner
 
