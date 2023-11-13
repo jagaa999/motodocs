@@ -6,7 +6,7 @@
 ![image](https://github.com/jagaa999/motodocs/blob/main/cozy/assets/Screenshot_6.png)
 3. Платформ менежмент цэсний тохиргоо модуль руу орох.
   
-![image](https://github.com/jagaa999/motodocs/blob/main/assets/cozy/Screenshot_7.png)
+![image1(https://github.com/jagaa999/motodocs/blob/main/assets/cozy/Screenshot_7.png)
 4. User management цэсийг сонгох.
 
 ![image](https://github.com/jagaa999/motodocs/blob/main/assets/cozy/Screenshot_8.png)
